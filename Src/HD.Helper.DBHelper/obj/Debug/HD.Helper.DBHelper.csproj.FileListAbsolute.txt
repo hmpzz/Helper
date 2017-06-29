@@ -19,3 +19,15 @@ E:\Projects\Helper\Src\HD.Helper.DBHelper\bin\Debug\MySql.Data.dll
 E:\Projects\Helper\Src\HD.Helper.DBHelper\bin\Debug\System.Data.SQLite.DLL
 E:\Projects\Helper\Src\HD.Helper.DBHelper\obj\Debug\HD.DBHelper.dll
 E:\Projects\Helper\Src\HD.Helper.DBHelper\obj\Debug\HD.DBHelper.pdb
+D:\GIT\Helper\Src\HD.Helper.DBHelper\bin\Debug\HD.DBHelper.XML
+D:\GIT\Helper\Src\HD.Helper.DBHelper\bin\Debug\HD.DBHelper.dll
+D:\GIT\Helper\Src\HD.Helper.DBHelper\bin\Debug\HD.DBHelper.pdb
+D:\GIT\Helper\Src\HD.Helper.DBHelper\bin\Debug\IBatisNet.Common.dll
+D:\GIT\Helper\Src\HD.Helper.DBHelper\bin\Debug\IBatisNet.DataMapper.dll
+D:\GIT\Helper\Src\HD.Helper.DBHelper\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\GIT\Helper\Src\HD.Helper.DBHelper\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\GIT\Helper\Src\HD.Helper.DBHelper\bin\Debug\MySql.Data.dll
+D:\GIT\Helper\Src\HD.Helper.DBHelper\bin\Debug\System.Data.SQLite.DLL
+D:\GIT\Helper\Src\HD.Helper.DBHelper\obj\Debug\HD.Helper.DBHelper.csprojResolveAssemblyReference.cache
+D:\GIT\Helper\Src\HD.Helper.DBHelper\obj\Debug\HD.DBHelper.dll
+D:\GIT\Helper\Src\HD.Helper.DBHelper\obj\Debug\HD.DBHelper.pdb

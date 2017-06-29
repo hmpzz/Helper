@@ -26,7 +26,8 @@
     <CleanIntermediates>True</CleanIntermediates>
     <DocumentationSources>
       <DocumentationSource sourceFile="..\Src\Common\bin\Debug\HD.Common.dll" />
-<DocumentationSource sourceFile="..\Src\Common\bin\Debug\HD.Common.xml" /></DocumentationSources>
+<DocumentationSource sourceFile="..\Src\Common\bin\Debug\HD.Common.xml" />
+<DocumentationSource sourceFile="..\Src\HD.Helper.Common\HD.Helper.Common.csproj" /></DocumentationSources>
     <MaximumGroupParts>2</MaximumGroupParts>
     <NamespaceGrouping>False</NamespaceGrouping>
     <SyntaxFilters>Standard</SyntaxFilters>

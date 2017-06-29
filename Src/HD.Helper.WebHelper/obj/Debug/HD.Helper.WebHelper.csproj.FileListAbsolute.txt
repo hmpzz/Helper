@@ -2,3 +2,10 @@ E:\Projects\Helper\Src\HD.Helper.WebHelper\bin\WebHelper.dll
 E:\Projects\Helper\Src\HD.Helper.WebHelper\bin\WebHelper.pdb
 E:\Projects\Helper\Src\HD.Helper.WebHelper\obj\Debug\WebHelper.dll
 E:\Projects\Helper\Src\HD.Helper.WebHelper\obj\Debug\WebHelper.pdb
+D:\GIT\Helper\Src\HD.Helper.WebHelper\bin\WebHelper.dll.config
+D:\GIT\Helper\Src\HD.Helper.WebHelper\bin\WebHelper.dll
+D:\GIT\Helper\Src\HD.Helper.WebHelper\bin\WebHelper.pdb
+D:\GIT\Helper\Src\HD.Helper.WebHelper\obj\Debug\HD.Helper.WebHelper.csprojResolveAssemblyReference.cache
+D:\GIT\Helper\Src\HD.Helper.WebHelper\obj\Debug\WebHelper.dll
+D:\GIT\Helper\Src\HD.Helper.WebHelper\obj\Debug\WebHelper.pdb
+D:\GIT\Helper\Src\HD.Helper.WebHelper\bin\WebHelper.XML

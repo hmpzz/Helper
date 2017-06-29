@@ -84,6 +84,7 @@
     <Compile Include="Cache\CacheHelper.cs" />
     <Compile Include="Date\ChineseCalHelper.cs" />
     <Compile Include="Config\ConfigHelper.cs" />
+    <Compile Include="DEncrypt\Security.cs" />
     <Compile Include="Email\SmtpConfig.cs" />
     <Compile Include="Email\SmtpSetting.cs" />
     <Compile Include="Page\ValidateImgPage.cs">
